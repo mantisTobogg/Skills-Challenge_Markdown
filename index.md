@@ -1,6 +1,8 @@
-# Excersises Parts 1-6 Markdown Github Work-Repo: 
+---
+title: My first Github Pages! How Fun!
+---
 
-[[_TOC_]]
+# Excersises Parts 1-6 Markdown Github Work-Repo: 
 
 ---
 
@@ -99,6 +101,7 @@ Testing checklist Syntax. Perhaps filling in the check box is possbile with a AL
 - [ ] YEAH BABY, lets goo
 
 ---
+
 
 
 
